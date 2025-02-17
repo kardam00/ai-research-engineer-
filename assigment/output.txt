@@ -1,0 +1,130 @@
+User: Find a red floral skirt under $40 in size S.
+Agent: 🔍 Searching for: Floral skirt, Color: Red, Size: S, Max Price: $40
+Found a match: Floral Skirt from ShopA for $35.
+
+----------------------------------------
+User: What is the shipping cost to New York from Zara?
+Agent: Shipping to New York: Delivery in 3 days for $5.99.
+
+----------------------------------------
+User: Can I use the SAVE10 discount on the leather jacket at Nordstrom?
+Agent: 🔍 Searching for: Leather jacket, Color: , Size: , Max Price: $Any
+No matching products found.
+Applying promo code SAVE10 results in a final price of ${'original_price': 35, 'final_price': 31.5, 'discount_applied': 0.1} for the last searched item.    
+
+----------------------------------------
+User: Compare prices for a casual denim jacket.
+Agent: Price comparison results:
+ - ShopA: $75
+ - ShopB: $80
+ - ShopC: $70
+
+----------------------------------------
+User: What is the return policy for Macy's?
+Agent: Return policy for Macy's: No information available.
+
+----------------------------------------
+User: Find a black leather jacket under $100 in size M. Can I use the promo code ‘WINTER20’?
+Agent: 🔍 Searching for: Leather jacket, Color: Black, Size: M, Max Price: $100
+Found a match: Floral Skirt from ShopC for $50.     
+Applying promo code WINTER20 results in a final price of ${'original_price': 50, 'final_price': 50, 'discount_applied': 0} for the last searched item.      
+
+----------------------------------------
+User: I need a pair of running shoes (size 10) under $80. Can they arrive in Texas by Thursday with the SAVE10 discount?
+Agent: 🔍 Searching for: Running shoes, Color: , Size: 10, Max Price: $80
+No matching products found.
+Applying promo code SAVE10 results in a final price of ${'original_price': 50, 'final_price': 45.0, 'discount_applied': 0.1} for the last searched item.    
+Shipping to Texas: Delivery in 4 days for $6.5.     
+
+----------------------------------------
+User: I found a navy blue hoodie for $60 on Nordstrom. Can I get a better price? What’s the return policy on Nordstrom?
+Agent: 🔍 Searching for: Navy blue hoodie, Color: Navy blue, Size: , Max Price: $60
+No matching products found.
+No price comparison found for 'navy blue hoodie'.   
+Return policy for Nordstrom: No information available.
+
+----------------------------------------
+User: Looking for a white summer dress under $50, size S. Can it arrive in California by Saturday with a discount?
+Agent: 🔍 Searching for: Summer dress, Color: White, Size: S, Max Price: $50
+No matching products found.
+No valid promo code available.
+Shipping to California: Delivery in 5 days for $7.99.
+
+----------------------------------------
+User: I found a ‘graphic t-shirt’ for $25 on Urban Outfitters. Are there better deals elsewhere? Can I apply SAVE10?
+Agent: Applying promo code SAVE10 results in a final price of ${'original_price': 50, 'final_price': 45.0, 'discount_applied': 0.1} for the last searched item.
+No price comparison found for 'graphic t-shirt'.    
+
+----------------------------------------
+User: Find a pair of black skinny jeans under $60 in size 32. Also, check the return policies.
+Agent: 🔍 Searching for: Black skinny jeans, Color: Black, Size: 32, Max Price: $60
+No matching products found.
+Return policy for Any retailer: No information available.
+
+----------------------------------------
+User: I need a formal blazer in size L under $150, and it must arrive in New York by Wednesday. Can I use any promo codes from J.Crew?
+Agent: 🔍 Searching for: Formal blazer, Color: , Size: L, Max Price: $150
+No matching products found.
+No valid promo code available.
+Shipping to New York: Delivery in 3 days for $5.99. 
+
+----------------------------------------
+User: I want a brown leather belt under $40 from Mango. Find a fast-shipping option to California and compare prices with other brands.
+Agent: 🔍 Searching for: Brown leather belt, Color: Brown, Size: , Max Price: $40
+No matching products found.
+Shipping to California: Delivery in 5 days for $7.99.
+No price comparison found for 'brown leather belt'. 
+
+----------------------------------------
+User: I want a pair of red heels (size 7) under $90, check if Zara has it, apply SUMMER20 if available, and estimate shipping to Texas.
+Agent: 🔍 Searching for: Heels, Color: Red, Size: 7, Max Price: $90
+No matching products found.
+Applying promo code SUMMER20 results in a final price of ${'original_price': 50, 'final_price': 40.0, 'discount_applied': 0.2} for the last searched item.  
+Shipping to Texas: Delivery in 4 days for $6.5.     
+No price comparison found for 'unknown product'.    
+
+----------------------------------------
+User: I’m buying a trench coat for $120 from ASOS. Can I use any promo codes? What’s the return policy? How much is shipping to New York?
+Agent: 🔍 Searching for: Trench coat, Color: , Size: , Max Price: $120
+No matching products found.
+No valid promo code available.
+Shipping to New York: Delivery in 3 days for $5.99. 
+Return policy for ASOS: No information available.   
+
+----------------------------------------
+User: Find a red plaid shirt under $45 at H&M. Check if competitors like Gap have a better price and see if it can ship to Texas by Friday.
+Agent: 🔍 Searching for: Plaid shirt, Color: Red, Size: , Max Price: $45
+No matching products found.
+Shipping to Texas: Delivery in 4 days for $6.5.     
+No price comparison found for 'unknown product'.    
+Return policy for H&M: No information available.    
+
+----------------------------------------
+User: I want to buy from ASOS, Zara, and Mango. What are their return policies?
+Agent: Return policy for Mango: No information available.
+
+----------------------------------------
+User: I found a beige trench coat for $95 on Mango. Check for a better price, apply SUMMER20, and see if it can arrive in New York by Friday.
+Agent: 🔍 Searching for: Beige trench coat, Color: , Size: , Max Price: $95
+No matching products found.
+Applying promo code SUMMER20 results in a final price of ${'original_price': 50, 'final_price': 40.0, 'discount_applied': 0.2} for the last searched item.  
+Shipping to New York: Delivery in 3 days for $5.99. 
+
+----------------------------------------
+User: I need three cotton t-shirts under $30 each. Can I get a bulk discount from Uniqlo? Also, find fast shipping to California.
+Agent: 🔍 Searching for: Cotton t-shirt, Color: , Size: , Max Price: $30
+No matching products found.
+No valid promo code available.
+Shipping to California: Delivery in 5 days for $7.99.
+
+----------------------------------------
+User: Looking for a warm winter coat under $120 in size M. Can it ship to New York in 3 days? Any promo codes from Uniqlo? Also, compare prices with competitors like Macy's.
+Agent: 🔍 Searching for: Winter coat, Color: , Size: M, Max Price: $120
+No matching products found.
+No valid promo code available.
+Shipping to New York: Delivery in 3 days for $5.99. 
+No price comparison found for 'unknown product'.    
+
+----------------------------------------
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1739797152.662615   16136 init.cc:232] grpc_wait_for_shutdown_with_timeout() timed out. 
