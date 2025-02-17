@@ -1,8 +1,10 @@
 import google.generativeai as genai
 import json
 import re
-from api import API_KEY
+import os
 from tools import search_products, estimate_shipping, apply_discount, compare_prices, get_return_policy
+
+API_KEY = os.getenv("GEMINI_API_KEY")
 
 # Set up Gemini Pro API Key
 genai.configure(api_key=API_KEY)
