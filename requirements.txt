@@ -1,4 +1,0 @@
-pip install google-generativeai
-pip install requests 
-pip install beautifulsoup4
-pip install re                      # (If `re` is required, though it's typically included with Python)
